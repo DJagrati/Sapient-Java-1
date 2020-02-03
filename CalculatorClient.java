@@ -1,4 +1,4 @@
-public class CalculatorClient{
+public class CalclatorClient{
     public static void main(String[] args) {
         Calculator calculator=new Calculator();
         System.out.print("Sum is ="+calculator.add(45,90));
